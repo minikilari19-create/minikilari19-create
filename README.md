@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Padmini Kilari 👋
 
 ### 📊 Aspiring Business Analyst 
 I bridge the gap between complex data and strategic business decisions. My focus is on transforming raw data into actionable insights through visualization, statistical analysis, and process optimization.
