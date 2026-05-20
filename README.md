@@ -14,11 +14,10 @@ I bridge the gap between complex data and strategic business decisions. My focus
 ---
 
 ## 🚀 Featured Projects
-* **[Project Name 1]**: Short one-sentence description of the business problem solved.
-* **[Project Name 2]**: Short one-sentence description of the tool used and the result achieved.
-
+* **[Project Name 1]**:[Mapped and redesigned a manual onboarding workflow, identifying bottlenecks that reduced processing time by an estimated 30%]
+* **[Project Name 2]**:[Engineered complex SQL queries to extract KPIs from a relational database, turning raw transactional logs into a structured executive summary]
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Insert Link]
-- **Email:** [Insert Email]
+- **LinkedIn:** [https://www.linkedin.com/in/padmini-k-936b85377/]
+- **Email:** [minikilari19@gmail.com]
