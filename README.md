@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**minikilari19-create/minikilari19-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Business Analyst 
+I bridge the gap between complex data and strategic business decisions. My focus is on transforming raw data into actionable insights through visualization, statistical analysis, and process optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox
+- **Data Analysis:** Python (Pandas, NumPy), SQL, Excel (Pivot Tables, VBA)
+- **Visualization:** Power BI, Tableau, Matplotlib
+- **Business Strategy:** Agile/Scrum, Requirements Gathering (BRD/FRD), SWOT Analysis
+- **Tools:** Jira, Confluence, Git/GitHub
+
+---
+
+## 🚀 Featured Projects
+* **[Project Name 1]**: Short one-sentence description of the business problem solved.
+* **[Project Name 2]**: Short one-sentence description of the tool used and the result achieved.
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [Insert Link]
+- **Email:** [Insert Email]
